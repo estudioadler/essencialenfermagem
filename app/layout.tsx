@@ -19,12 +19,12 @@ const paralucent = localFont({
 
     // Light (300)
     {
-      path: "./fonts/Paralucent-thin.ttf",
+      path: "./fonts/Paralucent-Thin.ttf",
       weight: "300",
       style: "normal",
     },
     {
-      path: "./fonts/Paralucent-thinItalic.ttf",
+      path: "./fonts/Paralucent-ThinItalic.ttf",
       weight: "300",
       style: "italic",
     },
